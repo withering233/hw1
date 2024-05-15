@@ -203,7 +203,7 @@ Matrix inv_matrix(Matrix a)
 
 int rank_matrix(Matrix a)
 {
-    int rank; // 初始化秩为矩阵的列数
+    int rank; 
     int i, j, k, lead;
     if (a.rows <= a.cols)
         rank = a.rows;
@@ -218,7 +218,7 @@ int rank_matrix(Matrix a)
             lead++;
         }
         if (lead == a.cols)
-        { // 检查是否存在全零行
+        {
             rank--;
         }
         else
