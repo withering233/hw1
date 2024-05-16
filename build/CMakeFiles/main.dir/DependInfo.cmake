@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/DOCUMENTS/GIT/first/hw1/src/algebra.c" "CMakeFiles/main.dir/src/algebra.obj" "gcc" "CMakeFiles/main.dir/src/algebra.obj.d"
-  "D:/DOCUMENTS/GIT/first/hw1/src/main.c" "CMakeFiles/main.dir/src/main.obj" "gcc" "CMakeFiles/main.dir/src/main.obj.d"
+  "D:/DOCUMENTS/GIT/first/hw1/src/algebra.c" "CMakeFiles/main.dir/src/algebra.c.obj" "gcc" "CMakeFiles/main.dir/src/algebra.c.obj.d"
+  "D:/DOCUMENTS/GIT/first/hw1/src/main.c" "CMakeFiles/main.dir/src/main.c.obj" "gcc" "CMakeFiles/main.dir/src/main.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

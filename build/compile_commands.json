@@ -1,14 +1,14 @@
 [
 {
   "directory": "D:/DOCUMENTS/GIT/first/hw1/build",
-  "command": "D:\\myself\\x86_64-13.2.0-release-posix-seh-msvcrt-rt_v11-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.obj -c D:\\DOCUMENTS\\GIT\\first\\hw1\\src\\algebra.c",
+  "command": "D:\\myself\\x86_64-13.2.0-release-posix-seh-msvcrt-rt_v11-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c D:\\DOCUMENTS\\GIT\\first\\hw1\\src\\algebra.c",
   "file": "D:/DOCUMENTS/GIT/first/hw1/src/algebra.c",
-  "output": "CMakeFiles/main.dir/src/algebra.obj"
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
 },
 {
   "directory": "D:/DOCUMENTS/GIT/first/hw1/build",
-  "command": "D:\\myself\\x86_64-13.2.0-release-posix-seh-msvcrt-rt_v11-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.obj -c D:\\DOCUMENTS\\GIT\\first\\hw1\\src\\main.c",
+  "command": "D:\\myself\\x86_64-13.2.0-release-posix-seh-msvcrt-rt_v11-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c D:\\DOCUMENTS\\GIT\\first\\hw1\\src\\main.c",
   "file": "D:/DOCUMENTS/GIT/first/hw1/src/main.c",
-  "output": "CMakeFiles/main.dir/src/main.obj"
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
 }
 ]
